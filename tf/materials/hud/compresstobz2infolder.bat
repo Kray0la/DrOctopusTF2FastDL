@@ -1,0 +1,1 @@
+for /d %%X in (*) do "B:\Program Files\7-Zip\7z.exe" a "%%X.bzip2" "%%X\"
